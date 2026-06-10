@@ -1,4 +1,118 @@
 leveledLists = {
+"008CD162": {
+  "LVMV": 1.000000,
+  "LVLF": 4,
+  "Entries": [
+    {
+      "Object": "008CD164"
+    },
+    {
+      "Object": "008CD165"
+    },
+    {
+      "Object": "008CD163"
+    }
+  ]
+},	
+"008CD163": {
+  "LVLF": 2,
+  "Entries": [
+    {
+      "Object": "002DB87C"
+    },
+    {
+      "Object": "002DB87E"
+    },
+    {
+      "Object": "002DB87A"
+    },
+	{
+      "Object": "002DB87D"
+    },
+	{
+      "Object": "00046939"
+    },
+	{
+      "Object": "0005303E"
+    },
+	{
+      "Object": "0020D3DE"
+    },
+	{
+      "Object": "0046C85D"
+    }
+  ]
+},	
+"008CD164": {
+  "LVLF": 2,
+  "Entries": [
+    {
+      "Object": "0004A14F"
+    },
+    {
+      "Object": "00033101"
+    },
+    {
+      "Object": "000330FB"
+    },
+	{
+      "Object": "000366BC"
+    },
+	{
+      "Object": "00140B1A"
+    },
+	{
+      "Object": "00060E90"
+    },
+	{
+      "Object": "0019269B"
+    },
+	{
+      "Object": "00060E93"
+    },
+	{
+      "Object": "00059AE1"
+    },
+	{
+      "Object": "00059B11"
+    },
+	{
+      "Object": "00060E96"
+    },
+	{
+      "Object": "00020189"
+    },
+	{
+      "Object": "0002018A"
+    },
+	{
+      "Object": "00059ABA"
+    },
+	{
+      "Object": "000AF8EF"
+    }
+  ]
+},	
+"008CD165": {
+  "LVLF": 2,
+  "Entries": [
+    {
+      "Object": "00047660"
+    },
+    {
+      "Object": "00074D0F"
+    },
+    {
+      "Object": "00074D10"
+    },
+    {
+      "Object": "00110BA4"
+    },
+    {
+      "Object": "000330FF"
+    }
+  ]
+},		
 "008A6FC3": {
   "LVLF": 2,
   "Entries": [
