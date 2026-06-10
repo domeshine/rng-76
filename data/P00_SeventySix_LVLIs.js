@@ -4,13 +4,16 @@ leveledLists = {
   "LVLF": 4,
   "Entries": [
     {
-      "Object": "008CD164"
+      "Object": "008CD164",
+      "LVOC": "008CD15F"
     },
     {
-      "Object": "008CD165"
+      "Object": "008CD165",
+      "LVOC": "00555D92"
     },
     {
-      "Object": "008CD163"
+      "Object": "008CD163",
+      "LVOC": "008CD15E"
     }
   ]
 },	
