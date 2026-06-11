@@ -10138,6 +10138,8 @@ edids = {
 "008CD163": "LVLIATX_Resources_Collectron_SirLoin_Rare",
 "008CD164": "LVLIATX_Resources_Collectron_SirLoin_SuperCommon",
 "008CD165": "LVLIATX_Resources_Collectron_SirLoin_Uncommon",
+"008CD16C": "RESOATX_SirLoinResourc_Collector",
+"008CD15C": "AVIFATX_ResourceAV_Collectron_SirLoin_Collector Fleish",
 "0042523A": "AVIFPioneerScoutRank",
 "005A52C0": "STATATX_HubrisComicPosterUnStoppablesGrognak_Framed Framed Grog-na-rok Poster",
 "0082522D": "ARMOARMO_Headwear_FasnachtMask_Sun_Glow Fasnacht Glowing Sun Mask",
