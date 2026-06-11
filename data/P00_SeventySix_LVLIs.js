@@ -1,4 +1,18 @@
 leveledLists = {
+"008AD79B": {
+  "LVMV": 0.000000,
+  "LVLF": 4,
+  "Entries": [
+    {
+      "Object": "008AD79A",
+      "LVOC": "008AD798"
+    },
+    {
+      "Object": "008AD799",
+      "LVOC": "008AD797"
+    }
+  ]
+},	
 "008CD162": {
   "LVMV": 1.000000,
   "LVLF": 4,
