@@ -7,6 +7,7 @@ edids = {
 "008AD797": "ATX_CNone_Collectron_EvidenceCollectionAssistant_SuperRare_ECON",
 "008AD798": "ATX_CNone_Collectron_EvidenceCollectionAssistant_SuperCommon_ECON",
 "0002018A": "MISCPlayerHouse_Ruin_SaltShaker01 Salt Shaker",
+"0001FAAE": "CMPOc_Leather Leather",
 "00000001": "STATDoorMarker",
 "0000000A": "MISCBobbyPin Bobby Pin",
 "0000000F": "CNCYCaps001 Cap",
