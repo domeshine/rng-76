@@ -1,4 +1,8 @@
 edids = {
+"008B3DCC": "LVLISCORE_S25_Resources_Collectron_MrFarmhand",
+"008B3DE7": "RESOSCORE_S25_Resource_Collectron_MrFarmhand",
+"008B3DBA": "AVIFSCORE_S25_ResourceAV_Collectron_MrFarmhand FarmResources",
+"008B3DCB": "GLOBSCORE_S25_ResourceProductionIntervalHours_Collectron_MrFarmhand",
 "008C29F4": "ALCHNonPremium_MagazineBookBox Mystery Magazine Package",
 "008AD797": "ATX_CNone_Collectron_EvidenceCollectionAssistant_SuperRare_ECON",
 "008AD798": "ATX_CNone_Collectron_EvidenceCollectionAssistant_SuperCommon_ECON",

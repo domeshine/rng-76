@@ -1,4 +1,172 @@
 leveledLists = {
+"008B3DCC": {
+  "LVLF": 64,
+  "Entries": [
+    {
+      "Object": "0001FAAE",
+      "Conditions": [
+          {
+            "Operator": 96,
+            "Value": 95.0,
+            "Function": 4173,
+            "FunctionName": "GetRandomPercent",
+            "Param1Ref": "00000000",
+            "Param1Value": 0.0,
+            "Param2Ref": "00000000",
+            "Param2Value": 0.0,
+            "RunOn": "Subject"
+          }
+      ]
+    },
+    {
+      "Object": "0005A0C7",
+      "Conditions": [
+          {
+            "Operator": 96,
+            "Value": 90.0,
+            "Function": 4173,
+            "FunctionName": "GetRandomPercent",
+            "Param1Ref": "00000000",
+            "Param1Value": 0.0,
+            "Param2Ref": "00000000",
+            "Param2Value": 0.0,
+            "RunOn": "Subject"
+          }
+      ]
+    },
+    {
+      "Object": "003EEA41",
+      "Conditions": [
+          {
+            "Operator": 96,
+            "Value": 95.0,
+            "Function": 4173,
+            "FunctionName": "GetRandomPercent",
+            "Param1Ref": "00000000",
+            "Param1Value": 0.0,
+            "Param2Ref": "00000000",
+            "Param2Value": 0.0,
+            "RunOn": "Subject"
+          }
+      ]
+    },
+    {
+      "Object": "000AEC5F",
+      "Conditions": [
+          {
+            "Operator": 96,
+            "Value": 85.0,
+            "Function": 4173,
+            "FunctionName": "GetRandomPercent",
+            "Param1Ref": "00000000",
+            "Param1Value": 0.0,
+            "Param2Ref": "00000000",
+            "Param2Value": 0.0,
+            "RunOn": "Subject"
+          }
+      ]
+    },
+    {
+      "Object": "001BE2AB",
+      "Conditions": [
+          {
+            "Operator": 96,
+            "Value": 80.0,
+            "Function": 4173,
+            "FunctionName": "GetRandomPercent",
+            "Param1Ref": "00000000",
+            "Param1Value": 0.0,
+            "Param2Ref": "00000000",
+            "Param2Value": 0.0,
+            "RunOn": "Subject"
+          }
+      ]
+    },
+    {
+      "Object": "00118614",
+      "Conditions": [
+          {
+            "Operator": 96,
+            "Value": 75.0,
+            "Function": 4173,
+            "FunctionName": "GetRandomPercent",
+            "Param1Ref": "00000000",
+            "Param1Value": 0.0,
+            "Param2Ref": "00000000",
+            "Param2Value": 0.0,
+            "RunOn": "Subject"
+          }
+      ]
+    },
+    {
+      "Object": "000F742E",
+      "Conditions": [
+          {
+            "Operator": 96,
+            "Value": 70.0,
+            "Function": 4173,
+            "FunctionName": "GetRandomPercent",
+            "Param1Ref": "00000000",
+            "Param1Value": 0.0,
+            "Param2Ref": "00000000",
+            "Param2Value": 0.0,
+            "RunOn": "Subject"
+          }
+      ]
+    },
+    {
+      "Object": "00478DEC",
+      "Conditions": [
+          {
+            "Operator": 96,
+            "Value": 65.0,
+            "Function": 4173,
+            "FunctionName": "GetRandomPercent",
+            "Param1Ref": "00000000",
+            "Param1Value": 0.0,
+            "Param2Ref": "00000000",
+            "Param2Value": 0.0,
+            "RunOn": "Subject"
+          }
+      ]
+    },
+    {
+      "Object": "000E0043",
+      "Conditions": [
+          {
+            "Operator": 96,
+            "Value": 60.0,
+            "Function": 4173,
+            "FunctionName": "GetRandomPercent",
+            "Param1Ref": "00000000",
+            "Param1Value": 0.0,
+            "Param2Ref": "00000000",
+            "Param2Value": 0.0,
+            "RunOn": "Subject"
+          }
+      ]
+    },
+    {
+      "Object": "00033102",
+      "Conditions": [
+          {
+            "Operator": 96,
+            "Value": 55.0,
+            "Function": 4173,
+            "FunctionName": "GetRandomPercent",
+            "Param1Ref": "00000000",
+            "Param1Value": 0.0,
+            "Param2Ref": "00000000",
+            "Param2Value": 0.0,
+            "RunOn": "Subject"
+          }
+      ]
+    },
+    {
+      "Object": "0009DCC4"
+    }
+  ]
+},
 "008AD79B": {
   "LVMV": 0.000000,
   "LVLF": 4,
