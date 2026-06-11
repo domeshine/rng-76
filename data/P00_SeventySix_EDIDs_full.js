@@ -1,4 +1,5 @@
 edids = {
+"008C29F4": "ALCHNonPremium_MagazineBookBox Mystery Magazine Package"
 "00000001": "STATDoorMarker",
 "00000002": "STATTravelMarker",
 "00000003": "STATNorthMarker",

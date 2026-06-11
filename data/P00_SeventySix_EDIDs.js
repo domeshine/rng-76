@@ -1,4 +1,6 @@
 edids = {
+"008C29F4": "ALCHNonPremium_MagazineBookBox Mystery Magazine Package",
+"0002018A": "MISCPlayerHouse_Ruin_SaltShaker01 Salt Shaker",
 "00000001": "STATDoorMarker",
 "0000000A": "MISCBobbyPin Bobby Pin",
 "0000000F": "CNCYCaps001 Cap",
