@@ -12,6 +12,82 @@ leveledLists = {
       "LVOC": "008AD797"
     }
   ]
+},
+"008AD79A": {
+  "LVLF": 2,
+  "Entries": [
+    {
+      "Object": "00059ACC"
+    },
+    {
+      "Object": "0006907B"
+    },
+    {
+      "Object": "00059ACC"
+    },
+	{
+      "Object": "0006907B"
+    },
+	{
+      "Object": "0006907B"
+    },
+	{
+      "Object": "0006907E"
+    },
+	{
+      "Object": "000342BA"
+    },
+	{
+      "Object": "00069081"
+    },
+	{
+      "Object": "000342BA"
+    },
+	{
+      "Object": "0006907E"
+    },
+	{
+      "Object": "00069081"
+    },
+	{
+      "Object": "00059A76"
+    },
+	{
+      "Object": "0004D1F2"
+    },
+	{
+      "Object": "00059B2B"
+    },
+	{
+      "Object": "00059B2A"
+    },
+	{
+      "Object": "00059B02"
+    },
+	{
+      "Object": "00060EBF"
+    },
+	{
+      "Object": "00060E88"
+    },
+	{
+      "Object": "00059B25"
+    },
+	{
+      "Object": "000822D3"
+    },
+	{
+      "Object": "00060E7D"
+    }
+  ]
+},
+"008AD799": {
+  "LVLF": 2,
+  "Entries": [
+	{
+      "Object": "008C29F4"
+    }
+  ]
 },	
 "008CD162": {
   "LVMV": 1.000000,
